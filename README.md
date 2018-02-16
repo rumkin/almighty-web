@@ -9,7 +9,7 @@ The main concept:
 
 Ideas:
 
-* Everythink computable
+* Everything computable
 * Distributed computations: computing meshes
 * Device free
 * Network Identity
