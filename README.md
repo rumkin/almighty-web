@@ -25,6 +25,7 @@ The next web after web 2.0. Concepts and requirements.
 * RFC based development
 * Credit cards replaced by crypto currency wallets
 * No more browsers
+* Public Domain Companies: companies working by social contract and driven by RFCs
 
 
 ## Technologies
