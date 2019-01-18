@@ -1,21 +1,25 @@
 # Almighty Web
 
-The next web after web 2.0. Main concepts and requirements.
+The next web after web 2.0. Concepts and requirements.
 
-The main concept:
+## Concepts
 
 * Legal validity of digits
 * Crypto Society
+* From web of documents to web of processes
 
-Ideas:
+## Ideas
 
-* Everything computable
+* Global VM:
+  * Works forever
+  * Distributed code repository
+* Documents converts to Data and process
 * Distributed computations: computing meshes
-* Device free
+* Device free: clouds with private keys access
 * Network Identity
 * Addressing (phone numbers or email analogue)
 * Personal clusters
-* Smart home network
+* Automatic personal network creation
 * Cross site interactions
 
 
