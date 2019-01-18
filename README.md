@@ -5,22 +5,26 @@ The next web after web 2.0. Concepts and requirements.
 ## Concepts
 
 * Legal validity of digits
-* Crypto Society
 * From web of documents to web of processes
 
 ## Ideas
 
 * Global VM:
   * Works forever
-  * Distributed code repository
-* Documents converts to Data and process
-* Distributed computations: computing meshes
-* Device free: clouds with private keys access
-* Network Identity
+  * Uses global distributed code repository
+  * Supports distributed computations
+  * Global domain system
+  * Basic item is not a Document but Data and Process
+  * Unified encrypted protocols
+* Device free: clouds with private key access
+* Network Identity: passport with private key
 * Addressing (phone numbers or email analogue)
 * Personal clusters
-* Automatic personal network creation
+* Multinetworks: personal internet
 * Cross site interactions
+* RFC based development
+* Credit cards replaced by crypto currency wallets
+* No more browsers
 
 
 ## Technologies
